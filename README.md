@@ -99,11 +99,17 @@ India-FinTech-Capital-Intelligence/
 
 ---
 
-## 📈 Live Dashboard Preview
+## 📈 Live Dashboard (Power BI)
 
-> 🔗 [👉 Click here to explore the full interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQyNjdlZTItODIyZC00MDlhLTgyNDMtMDExMTY0NzEyZjEyIiwidCI6ImUxMGQ5NTc4LWRlNTgtNDUyZC1iMmJiLTY1NGFjZGM5ZmZiNyJ9&embedImagePlaceholder=true)
+> 🚀 Click to explore the full interactive dashboard on Power BI Service:
 
-Explore ₹243B+ worth of FinTech capital across 7 years, layered with 11 visualizations, 10 KPI cards, and custom DAX metrics. Fully interactive, filterable, and public.
+🔗 [**Launch India FinTech Capital Intelligence Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTQyNjdlZTItODIyZC00MDlhLTgyNDMtMDExMTY0NzEyZjEyIiwidCI6ImUxMGQ5NTc4LWRlNTgtNDUyZC1iMmJiLTY1NGFjZGM5ZmZiNyJ9&embedImagePlaceholder=true)
+
+> *(Best viewed on desktop)*
+
+---
+
+You can still browse screenshots from each page in the [`/visuals`](./visuals) folder if you're offline.
 
 ---
 
