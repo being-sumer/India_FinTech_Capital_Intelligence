@@ -1,12 +1,12 @@
 # 🇮🇳 India FinTech Capital Intelligence Dashboard (2016–2022)
 
-A data-intensive Power BI dashboard analyzing over **₹243 billion** in capital deployed across **3,912 funding rounds**, **512 unique investors**, and **61 Indian cities** between 2016 and 2022. This project transforms raw public data into actionable insight — quantifying capital concentration, sector efficiency, investor conviction, and the ecosystem’s post-peak behavior. Designed as an operator-grade lens for analysts, early-stage VCs, and founders.
+A data-intensive Power BI dashboard analyzing over **$15 billion** in capital deployed across **3,912 funding rounds**, **512 unique investors**, and **61 Indian cities** between 2016 and 2022. This project transforms raw public data into actionable insight — quantifying capital concentration, sector efficiency, investor conviction, and the ecosystem’s post-peak behavior. Designed as an operator-grade lens for analysts, early-stage VCs, and founders.
 
 ---
 
 ## 📌 Project Scope
 
-- 📊 **₹243B+ capital** across 7 years  
+- 📊 **$15B+ capital** across 7 years  
 - 🧾 **3,912 deals** refined into **580 high-quality entries** (from 5,047 raw rows)  
 - 👥 **512 investors**, including repeat behavior analysis  
 - 🌆 **61 cities** across India mapped and normalized  
