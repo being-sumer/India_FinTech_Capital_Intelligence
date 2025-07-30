@@ -101,7 +101,7 @@ India-FinTech-Capital-Intelligence/
 
 ## 📈 Dashboard Preview
 
-🚀 [Click here to view the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQyNjdlZTItODIyZC00MDlhLTgyNDMtMDExMTY0NzEyZjEyIiwidCI6ImUxMGQ5NTc4LWRlNTgtNDUyZC1iMmJiLTY1NGFjZGM5ZmZiNyJ9&embedImagePlaceholder=true&pageName=40555558702dc442ef44)
+🚀 [Click here to view the live Power BI dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYTQyNjdlZTItODIyZC00MDlhLTgyNDMtMDExMTY0NzEyZjEyIiwidCI6ImUxMGQ5NTc4LWRlNTgtNDUyZC1iMmJiLTY1NGFjZGM5ZmZiNyJ9&embedImagePlaceholder=true&pageName=40555558702dc442ef44](https://app.powerbi.com/view?r=eyJrIjoiYTQyNjdlZTItODIyZC00MDlhLTgyNDMtMDExMTY0NzEyZjEyIiwidCI6ImUxMGQ5NTc4LWRlNTgtNDUyZC1iMmJiLTY1NGFjZGM5ZmZiNyJ9&embedImagePlaceholder=true))
 
 > Built in Power BI and embedded using Microsoft’s secure public viewer. Includes 3 dashboard pages, 11 advanced visualizations, and 10 decision-grade KPIs.
 
