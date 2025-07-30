@@ -141,6 +141,3 @@ This project is under the **MIT License** — free to use, remix, and build upon
 
 > ✳️ Designed to expose not just where the capital flowed in India’s FinTech decade — but why. Built for analyst-grade navigation of a $15B+ venture landscape.
 =======
-# India_FinTech_Capital_Intelligence
-A public Power BI dashboard analyzing $15B+ in funding across 3,900+ FinTech deals in India (2016–2022)
->>>>>>> 340abaa2e3285d46f9123e836e0fd28ed03f64d7
