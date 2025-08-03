@@ -18,11 +18,11 @@ A data-intensive Power BI dashboard analyzing over **$15 billion** in capital de
 
 ## 🗂 Repository Structure
 India-FinTech-Capital-Intelligence/
-├── data_raw/          # Original Kaggle datasets
-├── data_cleaned/      # Final cleaned CSV + Excel datasets
-├── notebooks/         # Python scripts for data prep
-├── dashboard/         # Power BI .pbix + exported PDF
-├── visuals/           # Screenshots from the dashboard
+├── data_raw/          → Original Kaggle datasets
+├── data_cleaned/      → Final cleaned CSV + Excel datasets
+├── notebooks/         → Python scripts for data prep
+├── dashboard/         → Power BI .pbix + exported PDF
+├── visuals/           → Screenshots from the dashboard
 ├── README.md
 └── LICENSE
 
